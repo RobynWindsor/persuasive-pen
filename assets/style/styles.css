@@ -1,3 +1,11 @@
+.cormorant-intro {
+  font-family: 'Cormorant', serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 30px;
+}
+
 body {
   background-color: #f8f7f3;
 }
